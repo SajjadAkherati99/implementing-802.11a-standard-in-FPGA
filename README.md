@@ -1,0 +1,2 @@
+# implementing-802.11a-standard-in-FPGA
+In this project which was the final project of the FPGA course, we worked on the channel coder part of the LAN systems. As the channel coder part of digital communication systems has a lot of hardware complexities, and designing hardware for them is challenging, a subject like that is great for a course like FPGA which teach the student to learn initial principles is needed in VLSI circuit design..
